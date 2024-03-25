@@ -19,7 +19,7 @@ This is a simple To-Do List web application where users can add and manage their
 
 1. Clone the repository:
 
-```git clone https://github.com/rajanarahul93/To-Do-List-App.git
+```git clone https://github.com/rajanarahul93/To-Do-List-App.git```
 
 2. Open `index.html` in your web browser.
 
