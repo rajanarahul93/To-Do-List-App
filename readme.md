@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple To-Do List web application where users can add and manage their tasks.
+This simple To-Do List web application allows users to add and manage their tasks.
 
 ## Features
 
@@ -28,13 +28,10 @@ This is a simple To-Do List web application where users can add and manage their
 - Enter a task in the input box and click the "Add" button to add it to the list.
 - Click on a task to mark it as completed.
 - Click on the "x" button next to a task to delete it.
-- Your tasks will be saved locally, so you can access them even after closing the browser.
+- Your tasks will be saved locally to access them after closing the browser.
 
 ## Preview
 
 ![image](https://github.com/rajanarahul93/To-Do-List-App/assets/123227543/05790efb-d5cc-4a2f-a285-16a91aa72e90)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
