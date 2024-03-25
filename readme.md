@@ -32,8 +32,8 @@ This is a simple To-Do List web application where users can add and manage their
 
 ## Preview
 
-![To-Do List App Preview](![image](https://github.com/rajanarahul93/To-Do-List-App/assets/123227543/f7f898d9-9d04-4feb-bb8f-86e49b1169af)
-)
+![image](https://github.com/rajanarahul93/To-Do-List-App/assets/123227543/05790efb-d5cc-4a2f-a285-16a91aa72e90)
+
 
 ## License
 
